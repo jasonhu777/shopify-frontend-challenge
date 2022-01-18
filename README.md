@@ -1,7 +1,7 @@
 This project was created by Ziyang Hu using NASA's Astronomy Picture of the Day API[https://github.com/nasa/apod-api]
 
-## Available Features
 
+## Available Features
 
 ### Infinite Scroll
 
@@ -10,6 +10,7 @@ This project was created by Ziyang Hu using NASA's Astronomy Picture of the Day 
 ### Click to Copy Shareable Image Link
 
 ### Basic Stylings with Some animations
+
 
 ## Technology Stacks
 
