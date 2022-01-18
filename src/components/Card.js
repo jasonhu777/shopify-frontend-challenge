@@ -25,7 +25,7 @@ export default function Card({ imageData }) {
         <img
           src={imageData.url}
           className="card-img-top img-responsive"
-          alt={`Title:${imageData.title}, Description:${imageData.description}`}
+          alt={`Title:${imageData.title}, Description:${imageData.explanation}`}
         />
       )}
 

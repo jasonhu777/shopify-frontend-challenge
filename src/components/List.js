@@ -52,14 +52,14 @@ export default function List() {
   }, [imageDataArray]);
 
   return (
-    <main className="container-fluid align-items-center col-10 col-lg-8 col-xl-6 col-xxl-5" style={{ textAlign: 'center' }}>
+    <main className="container-fluid align-items-center col-10 col-lg-8 col-xl-6 col-xxl-5">
       <InfiniteScroll
         dataLength={cards.length}
         className=""
         next={fetchData}
         hasMore={true}
         loader={
-          <div className="spinner-grow" role="status">
+          <div className="spinner-grow position-absolute start-50" role="status">
             <span className="visually-hidden">Loading...</span>
           </div>
         }
