@@ -10,6 +10,8 @@ Hosted URL:https://ziyanghu-apod.web.app/
 
 ### Click to Copy Shareable Image Link
 
+### Loading Indicator
+
 ### Basic Stylings with Some animations
 
 
