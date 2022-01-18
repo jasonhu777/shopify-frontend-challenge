@@ -48,7 +48,7 @@ export default function CardHeader({
   const [linkButtonContent, setLinkButtonContent] = useState(shareButtonIcon);
   const handleShareClick = () => {
     navigator.clipboard.writeText(url);
-    setLinkButtonContent(copiedIcon)
+    setLinkButtonContent(copiedIcon);
     setTimeout(() => {
       setLinkButtonContent(shareButtonIcon);
     }, 5000);
