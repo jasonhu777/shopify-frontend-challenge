@@ -1,4 +1,4 @@
-This project was created by Ziyang Hu using using NASA's Astronomy Picture of the Day API[https://github.com/nasa/apod-api]
+This project was created by Ziyang Hu using NASA's Astronomy Picture of the Day API[https://github.com/nasa/apod-api]
 
 ## Available Features
 
